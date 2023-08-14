@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ksoulem
 - 👀 I’m interested in cycling an keeping things simple for better understanding
-- 🌱 I’m currently learning coding and java to enable better understand of the current adaptive world
-- 💞️ I’m looking to collaborate on projects that will help me lesrn as i am a beginner and passionate to learn with very little computer knowledge
+- 🌱 I’m currently learning to code to enable better understanding of the current adaptive world
+- 💞️ I’m looking to collaborate on projects that will help me learn 
 - 📫 How to reach me on this platform works or SC: Kosimi6
 
 <!---
